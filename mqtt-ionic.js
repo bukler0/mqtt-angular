@@ -1,3 +1,7 @@
+/**
+ * Created by bukler0
+ */
+
 (function (angular, require) {
   'use strict';
  

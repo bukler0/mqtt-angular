@@ -1,6 +1,7 @@
 /**
  * Angular Test Application for mqtt-ionic
  * ---------------------------
+ * Created by Bukler0
  */
 
 /*
