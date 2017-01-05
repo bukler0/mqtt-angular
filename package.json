@@ -1,0 +1,10 @@
+{
+  "name": "ionicMqtt",
+  "version": "1.0.0",
+  "description": "Angular service to handle an MQTT connection in multiple modules",
+  "dependencies": {
+    "angular": "^1.6.1",
+    "browserify": "^13.3.0",
+    "mqtt": "^2.1.3"
+  }
+}
